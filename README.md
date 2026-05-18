@@ -1,6 +1,6 @@
-# Luiz Antonio Xavier
+# Olá, meu nome Luiz Antonio Xavier
 
-Estudante de tecnologia focado em desenvolvimento de software, programação e construção de projetos práticos.
+Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolvimento de software, programação e construção de projetos práticos.
 
 ---
 
