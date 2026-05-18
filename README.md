@@ -1,16 +1,16 @@
 # Luiz Antonio Xavier
 
-Estudante de tecnologia focado em Inteligência Artificial, desenvolvimento de software e sistemas inteligentes.
+Estudante de tecnologia focado em desenvolvimento de software, programação e construção de projetos práticos.
 
 ---
 
 ## Sobre Mim
 
-Sou estudante de tecnologia apaixonado por Inteligência Artificial, desenvolvimento de software e tecnologias modernas.
+Sou estudante de tecnologia e atualmente estou desenvolvendo minhas habilidades em programação, desenvolvimento de software e organização de projetos.
 
-Atualmente estou focado em aprender como sistemas inteligentes funcionam através de projetos práticos envolvendo IA conversacional, engenharia de prompts e arquitetura de software.
+Gosto de aprender através da prática, criando projetos que me ajudam a entender melhor conceitos modernos de tecnologia, lógica de programação e arquitetura de sistemas.
 
-Gosto de criar projetos que unem aprendizado, organização e conceitos reais utilizados no mercado de tecnologia.
+Busco evoluir constantemente minhas habilidades técnicas e construir projetos cada vez mais organizados e profissionais.
 
 ---
 
@@ -18,11 +18,10 @@ Gosto de criar projetos que unem aprendizado, organização e conceitos reais ut
 
 ```text
 Python
-LangChain
-Inteligência Artificial
-Prompt Engineering
 Git & GitHub
+LangChain
 Desenvolvimento de Software
+Programação
 LLMs
 ```
 
@@ -30,12 +29,12 @@ LLMs
 
 ## Foco Atual
 
-- Inteligência Artificial Conversacional
-- Assistentes com IA
-- Engenharia de Prompts
-- Arquitetura de Software
 - Desenvolvimento em Python
-- Sistemas Inteligentes
+- Organização de Projetos
+- Arquitetura de Software
+- Desenvolvimento Backend
+- Inteligência Artificial Conversacional
+- Git & GitHub
 
 ---
 
@@ -43,16 +42,16 @@ LLMs
 
 ### AI Knowledge Assistant
 
-Assistente conversacional desenvolvido com Python, LangChain e Groq para perguntas e respostas utilizando IA e contexto dinâmico.
+Assistente conversacional desenvolvido com Python, LangChain e Groq para perguntas e respostas utilizando contexto dinâmico.
 
 Principais conceitos explorados no projeto:
 
-- Integração com LLMs
-- Engenharia de Prompts
-- Injeção de Contexto
 - Arquitetura Modular
-- Fluxo de IA Conversacional
+- Integração com APIs
+- Engenharia de Prompts
 - Organização de Software
+- Fluxo Conversacional
+- Estruturação de Projetos
 
 Repositório:
 ```text
@@ -63,22 +62,22 @@ github.com/Luiz-Antonio-Xavier/ai-knowledge-assistantai
 
 ## Objetivos de Aprendizado
 
-Atualmente estudando e aprimorando conhecimentos em:
+Atualmente aprimorando conhecimentos em:
 
-- Inteligência Artificial
-- Desenvolvimento Backend
-- Engenharia de Software
-- Arquitetura de Aplicações
-- Organização de Sistemas
+- Desenvolvimento de Software
+- Backend
+- Estruturação de Projetos
+- Programação em Python
 - Documentação Técnica
+- Versionamento com Git
 
 ---
 
 ## Objetivo do GitHub
 
-Este perfil foi criado para documentar minha evolução na área de tecnologia através de projetos acadêmicos, estudos e desenvolvimento de software.
+Este perfil foi criado para documentar minha evolução na área de tecnologia através de projetos acadêmicos, estudos e desenvolvimento prático.
 
-O objetivo é evoluir continuamente minhas habilidades técnicas, organização de projetos e conhecimento em Inteligência Artificial e desenvolvimento moderno.
+O objetivo é construir projetos cada vez mais organizados, profissionais e bem estruturados enquanto evoluo minhas habilidades técnicas.
 
 ---
 
@@ -93,4 +92,4 @@ github.com/Luiz-Antonio-Xavier
 
 ## Visão
 
-Construindo projetos organizados e profissionais enquanto evoluo constantemente em Inteligência Artificial e desenvolvimento de software.
+Construindo projetos práticos e evoluindo constantemente no desenvolvimento de software e tecnologia.
