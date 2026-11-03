@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="./images/witcher-3-vesemir.gif" width="100%" alt="The Witcher 3"/>
+<img src="./images/witcher-3-geralt.gif" width="100%" alt="The Witcher 3"/>
 
 </div>
 
