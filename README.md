@@ -6,33 +6,28 @@
 
 <br/>
 
-![Manifestation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=50&lines=Everything+is+working+out+for+me+because+I+make+it+happen.)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=50&lines=Aprendendo+e+evoluindo+um+projeto+de+cada+vez.;Transformando+ideias+em+c%C3%B3digo.;Sempre+em+busca+de+algo+novo.)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logoColor=white)](https://renlenon.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-blenon/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rblenon18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](LINK_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Lord Of The Rings Laughing GIF.gif">
-  <source media="(prefers-color-scheme: light)" srcset="Lord Of The Rings Laughing GIF.gif">
-  <img src="Lord Of The Rings Laughing GIF.gif" width="100%" alt="Henry and Capon">
-</picture>
+<img src="images/gandalf-laugh.gif" width="100%" alt="Gandalf rindo"/>
 
 </div>
 
 ---
 
-## HEAVENLY RESTRICTION
+## SOBRE MIM
 
-I'm a Full-Stack Web Developer based in the Philippines, currently pursuing a Bachelor of Science in Information Technology at the Polytechnic University of the Philippines.
+Sou estudante de Análise e Desenvolvimento de Sistemas na UDF. Gosto de aprender na prática, desenvolver projetos e entender melhor como as coisas funcionam por trás do código.
 
-I build full-stack applications, business websites, e-commerce platforms, and AI-integrated web systems using Laravel, React, WordPress, and modern JavaScript tools. My work spans backend development, database design, API integrations, technical SEO, serverless functions, deployment, and long-term website maintenance.
+Atualmente, estou estudando programação, lógica e banco de dados, explorando linguagens como C e Python. Estou no início da minha jornada na tecnologia e procuro evoluir a cada projeto.
 
-As a freelance Web Developer and SEO Specialist, I've developed and maintained 20+ WordPress websites for international clients. I focus on building practical, maintainable systems that solve real problems—not just interfaces that look good.
+Fora da programação, gosto de jogos, literatura e histórias com ambientação medieval.
 
 <br/>
