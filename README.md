@@ -1,95 +1,38 @@
-# Olá, meu nome Luiz Antonio Xavier
+<div align="center">
 
-Estudante de Análise e Desenvolvimento de Sistemas focado em desenvolvimento de software, programação e construção de projetos práticos.
+# Olá, eu sou Luiz Antonio!
+### ESTUDANTE DE ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+### C • Python • SQL • Tecnologia
 
----
+<br/>
 
-## Sobre Mim
+![Manifestation](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=50&lines=Everything+is+working+out+for+me+because+I+make+it+happen.)
 
-Sou estudante de tecnologia e atualmente estou desenvolvendo minhas habilidades em programação, desenvolvimento de software e organização de projetos.
+<br/>
 
-Gosto de aprender através da prática, criando projetos que me ajudam a entender melhor conceitos modernos de tecnologia, lógica de programação e arquitetura de sistemas.
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logoColor=white)](https://renlenon.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/h0tm4kizn/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renielyn-blenon/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rblenon18@gmail.com)
 
-Busco evoluir constantemente minhas habilidades técnicas e construir projetos cada vez mais organizados e profissionais.
+<br/>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="maki-zenin-aura-power.gif">
+  <source media="(prefers-color-scheme: light)" srcset="maki-zenin-aura-power.gif">
+  <img src="maki-zenin-aura-power.gif" width="100%" alt="Maki Zenin Power">
+</picture>
 
-## Tecnologias & Ferramentas
-
-```text
-Python
-Git & GitHub
-LangChain
-Desenvolvimento de Software
-Programação
-LLMs
-```
-
----
-
-## Foco Atual
-
-- Desenvolvimento em Python
-- Organização de Projetos
-- Arquitetura de Software
-- Desenvolvimento Backend
-- Inteligência Artificial Conversacional
-- Git & GitHub
+</div>
 
 ---
 
-## Projeto em Destaque
+## HEAVENLY RESTRICTION
 
-### AI Knowledge Assistant
+I'm a Full-Stack Web Developer based in the Philippines, currently pursuing a Bachelor of Science in Information Technology at the Polytechnic University of the Philippines.
 
-Assistente conversacional desenvolvido com Python, LangChain e Groq para perguntas e respostas utilizando contexto dinâmico.
+I build full-stack applications, business websites, e-commerce platforms, and AI-integrated web systems using Laravel, React, WordPress, and modern JavaScript tools. My work spans backend development, database design, API integrations, technical SEO, serverless functions, deployment, and long-term website maintenance.
 
-Principais conceitos explorados no projeto:
+As a freelance Web Developer and SEO Specialist, I've developed and maintained 20+ WordPress websites for international clients. I focus on building practical, maintainable systems that solve real problems—not just interfaces that look good.
 
-- Arquitetura Modular
-- Integração com APIs
-- Engenharia de Prompts
-- Organização de Software
-- Fluxo Conversacional
-- Estruturação de Projetos
-
-Repositório:
-```text
-github.com/Luiz-Antonio-Xavier/ai-knowledge-assistantai
-```
-
----
-
-## Objetivos de Aprendizado
-
-Atualmente aprimorando conhecimentos em:
-
-- Desenvolvimento de Software
-- Backend
-- Estruturação de Projetos
-- Programação em Python
-- Documentação Técnica
-- Versionamento com Git
-
----
-
-## Objetivo do GitHub
-
-Este perfil foi criado para documentar minha evolução na área de tecnologia através de projetos acadêmicos, estudos e desenvolvimento prático.
-
-O objetivo é construir projetos cada vez mais organizados, profissionais e bem estruturados enquanto evoluo minhas habilidades técnicas.
-
----
-
-## Contato
-
-GitHub:
-```text
-github.com/Luiz-Antonio-Xavier
-```
-
----
-
-## Visão
-
-Construindo projetos práticos e evoluindo constantemente no desenvolvimento de software e tecnologia.
+<br/>
