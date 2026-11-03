@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="witcher 3 GIF.gif" width="100%" alt="Gandalf rindo"/>
+<img src="witcher-3-GIF.gif" width="100%" alt="Gandalf rindo"/>
 
 </div>
 
