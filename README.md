@@ -18,9 +18,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="maki-zenin-aura-power.gif">
-  <source media="(prefers-color-scheme: light)" srcset="maki-zenin-aura-power.gif">
-  <img src="maki-zenin-aura-power.gif" width="100%" alt="Maki Zenin Power">
+  <source media="(prefers-color-scheme: dark)" srcset="Kingdom Come Deliverance Adventure GIF.gif">
+  <source media="(prefers-color-scheme: light)" srcset="Kingdom Come Deliverance Adventure GIF.gif">
+  <img src="Kingdom Come Deliverance Adventure GIF.gif" width="100%" alt="Henry and Capon">
 </picture>
 
 </div>
