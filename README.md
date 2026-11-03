@@ -18,9 +18,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Kingdom Come Deliverance Adventure GIF.gif">
-  <source media="(prefers-color-scheme: light)" srcset="Kingdom Come Deliverance Adventure GIF.gif">
-  <img src="Kingdom Come Deliverance Adventure GIF.gif" width="100%" alt="Henry and Capon">
+  <source media="(prefers-color-scheme: dark)" srcset="Lord Of The Rings Laughing GIF.gif">
+  <source media="(prefers-color-scheme: light)" srcset="Lord Of The Rings Laughing GIF.gif">
+  <img src="Lord Of The Rings Laughing GIF.gif" width="100%" alt="Henry and Capon">
 </picture>
 
 </div>
