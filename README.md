@@ -31,3 +31,23 @@ Atualmente, estou estudando programação, lógica e banco de dados, explorando 
 Fora da programação, gosto de jogos, literatura e histórias com ambientação medieval.
 
 <br/>
+
+### Linguagens e Desenvolvimento
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,mysql,sqlite" />
+</p>
+
+### Ferramentas
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+</p>
+
+### Inteligência Artificial
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6A1B9A?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
